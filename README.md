@@ -36,7 +36,7 @@ The Aachen WebSDR:
 Optional dependencies such as cuFFT or clFFT can be installed too.
 ### Ubuntu Prerequisites
 ```
-apt install build-essential cmake pkg-config meson libfftw3-dev libwebsocketpp-dev libflac++-dev zlib1g-dev libzstd-dev libboost-all-dev libopus-dev libliquid-dev git psutils
+apt install build-essential cmake pkg-config meson libfftw3-dev libwebsocketpp-dev libflac++-dev zlib1g-dev libzstd-dev libboost-all-dev libopus-dev libliquid-dev git psmisc
 ```
 
 ### Fedora Prerequisites
