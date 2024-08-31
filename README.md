@@ -74,5 +74,5 @@ rx_sdr -f 145000000 -s 20000000 -d driver=hackrf - | ./build/spectrumserver --co
 ## Added start files and configs for various recievers. 
 Some need Soapy and RX_TOOLS installed else they do not work, e.g. Airspy Discovery and SDRPlay RSP1A.
 I also added psutils as it's needed for killall command.
-Do not forget to disable opencl if you didn't install it, it's recommened you do.
--- Bas ON5HB
+Do not forget to disable opencl if you didn't install it, it's recommended you do.
+- Last comment by Bas ON5HB -
